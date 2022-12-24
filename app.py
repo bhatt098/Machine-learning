@@ -8,4 +8,4 @@ def index():
     return 'end to end ml project deployed using render'
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=True)      
